@@ -9,4 +9,3 @@ E-commerce website using HTML and CSS only
 ![Screenshot (30)](https://user-images.githubusercontent.com/70272774/191951837-49b9bde3-8ed4-4ab1-a483-31efd6569485.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/70272774/191951847-14999083-d604-4f7b-91cc-b8927d2f5914.png)
 ![Screenshot (32)](https://user-images.githubusercontent.com/70272774/191951857-6efcddfc-797e-4483-963c-9e0da18e91b7.png)
-![Screenshot (33)](https://user-images.githubusercontent.com/70272774/191951863-5fa393a7-bacb-4d1b-8549-cdc10bbabbe6.png)
