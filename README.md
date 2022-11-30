@@ -6,4 +6,3 @@
 ![Screenshot (88)](https://user-images.githubusercontent.com/109057326/195997491-07884a99-33c0-4b55-93b5-040d72e65cb6.png)
 ![Screenshot (89)](https://user-images.githubusercontent.com/109057326/195997493-be3e7791-5969-443e-bfa8-c43e510cbb33.png)
 ![Screenshot (90)](https://user-images.githubusercontent.com/109057326/195997498-455b2ee3-13c1-4810-a658-09907fbb95fb.png)
-![Screenshot (91)](https://user-images.githubusercontent.com/109057326/195997502-ea951f9f-5524-492e-a806-87bf7b3ebfa5.png)
